@@ -13,8 +13,8 @@ theme:
       - content.code.annotate
       - content.code.copy
       - content.tooltips
-  logo: favicon.ico
-  favicon: favicon.ico
+  logo: logo.png
+  favicon: logo.png
   palette:
     primary: red
         # Palette toggle for light mode
