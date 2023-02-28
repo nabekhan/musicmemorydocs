@@ -1,17 +1,2 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Introduction to Music & Memory Initiative
+Many patients, especially those experiencing dementia or delirium, often face emotional difficulties within their hospital journey. The Music and Memory initiative aims to support the emotional needs of these patients by providing personalized music plan. Familiar music can be grounding, reassuring, and comforting in an unfamiliar medical environment. This initiative offers the added benefit of promoting joy among patients, families, and healthcare workers alike.
