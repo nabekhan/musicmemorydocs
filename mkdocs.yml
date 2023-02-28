@@ -66,7 +66,7 @@ plugins:
 nav:
 - Home: 'index.md'
 - Method:
-  - 'Step 1: Referral': 'method/interview.md'
+  - 'Step 1: Referral': 'method/referral.md'
   - 'Step 2: Interview': 'method/interview.md'
   - 'Step 3: Playlist': 'method/playlist.md'
   - 'Step 4: Notify': 'method/notify.md'
