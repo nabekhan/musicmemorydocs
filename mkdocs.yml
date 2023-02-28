@@ -16,6 +16,7 @@ theme:
   logo: favicon.ico
   favicon: favicon.ico
   palette:
+    primary: red
         # Palette toggle for light mode
       - media: "(prefers-color-scheme: light)"
         scheme: default
@@ -59,6 +60,8 @@ extra_javascript:
 plugins:
     - include-markdown
     - search
+    - mkpdfs:
+        company: Fraser Health
 
 nav:
 - Home: 'index.md'
