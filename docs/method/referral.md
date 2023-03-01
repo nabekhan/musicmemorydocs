@@ -32,5 +32,10 @@
     <figcaption>Figure 3: SHRED-IT Box</figcaption>
 </figure>
 
+<figure markdown>
+  ![Image title](https://dummyimage.com/600x400/){ width="300" }
+  <figcaption>Image caption</figcaption>
+</figure>
+
 ## Next Step
 [Interview the patient or close family to identify 5-8 meaningful songs.](interview.md)
