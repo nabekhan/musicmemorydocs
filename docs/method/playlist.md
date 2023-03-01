@@ -3,52 +3,43 @@
 Create the music playlist on Spotify at the bedside with the patient. This will allow the volunteer to assess the patient’s reactions to each song.
 
 1.	Assign a device to the patient and set it up
-    1. Review the Music & Memory Playlist poster behind the nursing station and identify a specific Spotify device/account for the patient. 
+    
+    Review the Music & Memory Playlist poster behind the nursing station and identify a specific Spotify device/account for the patient. Each device is logged into a specific Spotify Account (Ex: iPhone / Tablet #3 = Spotify Account #3). 
     <figure markdown>
     ![Playlist Poster](../img/playlistposter.png){ loading=lazy width="200" }
     </figure>      
-        1. Each device is logged into a specific Spotify Account (Ex: iPhone / Tablet #3 = Spotify Account #3). 
-        2.  Account Usernames and Passwords are located next to the M&M Playlist Poster.
-        <figure markdown>
-        ![Account Poster](../img/accountinfo.jpg){ loading=lazy width="200" }   
-        </figure>     
-    2. Set Up Wifi
-        1. Select Wi-Fi “Fraser Health Guest”
-        2. Accept Policy
-        <figure markdown>
-        ![Wifi Policy](../img/wifipolicy.jpg){ loading=lazy width="200" }   
-        </figure> 
-    3. Set-Up the Headset
-        1. Link iPhone to Cordless Headset
-        2. Select Bluetooth and connect assigned headset (iPhone/Tablet #1 = Headset #1)
-        <figure markdown>
-        ![Equipment](../img/equipment.jpg){ loading=lazy width="200" }   
-        </figure> 
-2.	Open the Spotify App and set it up
+    Account Usernames and Passwords are located next to the M&M Playlist Poster.
     <figure markdown>
-    ![Playlist Poster](../img/spotifyicon.jpg){ loading=lazy width="200" }
-    </figure>   
-    1. Check that the device is logged into the proper Spotify Account (iPhone #2 = Account #2)
-    2. If the device you need is not available:
-        1. Log into another device with the patient’s username and password
-        2. Create the playlist
-        3. Log out and back into the original account
-3.	Create Playlist
-    1. In Spotify, select “Create Playlist”
-    2. Click on the Playlist Title
-    3. Title the playlist with the patient’s last name and bed #
+    ![Account Poster](../img/accountinfo.jpg){ loading=lazy width="200" }   
+    </figure>     
+    Set Up Wifi by selecting Wi-Fi “Fraser Health Guest” and accepting the policy
+
+    Set-Up the headset by linking the iPhone to its corresponding cordless Headset (iPhone/Tablet #1 = Headset #1).
+
+2.	Open the Spotify App and set it up
+    Check that the device is logged into the proper Spotify Account (iPhone #2 = Account #2)
+    Note: If the device you need is not available, Log into another device with the patient’s username and password, create the playlist, then log out and back into the original account
+
+3.	Create Playlist:
+    
+    In Spotify, select “Create Playlist”, then Click on the Playlist Title. Title the playlist with the patient’s last name and bed #.
+    
 4.  Add songs to the playlist
-    1. Use the search bar to locate songs
-    2. Add songs to the playlist
-5.	As able, play each song for the patient and discard unwanted ones
-    1. Ensure to test the volume before trialing the music with the patient
-7.	When finished thank the patient and download the new playlist to the device
-8. Clean & charge Equipment
-<figure markdown>
-![Cleaning Equipment](../img/cleaning.jpg){ loading=lazy width="200" }
-</figure>  
-    1. Sanitize Headset and iPhone / Tablet with hospital-grade cleaners using gloves
-    2. Plug headset and iPhone into the charging station
+
+    Use the search bar to locate songs and click "add" to add songs to the playlist
+
+5.	As able, play each song for the patient and discard unwanted ones.
+
+    Ensure to test the volume before trialing the music with the patient
+
+6.	When finished thank the patient and download the new playlist to the device
+
+7. Clean & charge Equipment
+
+    Sanitize Headset and iPhone / Tablet with hospital-grade cleaners using gloves. Plug headset and iPhone into the charging station
+    <figure markdown>
+    ![Cleaning Equipment](../img/cleaning.jpg){ loading=lazy width="200" }
+    </figure>  
 
 
 If unable to test each song with the patient, create the playlist after the interview.
