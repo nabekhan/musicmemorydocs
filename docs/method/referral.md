@@ -8,7 +8,7 @@
 - Referrals can be found in room 016 (next to the manager’s office)
 - Check the printer or the Music & Memory Folder mounted next to the door
 
-<figure markdown="1">
+<figure markdown>
     ![Memory Folder](../img/mmfolder.jpg){ width="180" }
     <figcaption>Figure 1: Music & Memory Folder</figcaption>
 </figure>
@@ -18,7 +18,7 @@
 - The referral will indicate whether the interview is in-person on Unit 2C or by phone with family
 - Phone interviews will include the family members name and contact number
 
-<figure markdown="1">
+<figure markdown>
     ![Referral Form](../img/referralform.jpg){ width="300" }
     <figcaption>Figure 2: Referral Form Sample</figcaption>
 </figure>
@@ -27,7 +27,7 @@
 - When bringing the paper referral to the unit, fold it to protect patient information and discard in the Fraser Health SHRED-IT box
 - When conducting telephone interviews discard the referral paper in the Fraser Health SHRED-IT box immediately after the call
 
-<figure markdown="1">
-    ![Shred It](../img/shredit.jpg){ width="180" }
+<figure markdown>
+    ![Shred It](shredit.jpg){ width="180" }
     <figcaption>Figure 3: SHRED-IT Box</figcaption>
 </figure>
