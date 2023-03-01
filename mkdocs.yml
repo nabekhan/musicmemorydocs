@@ -31,6 +31,9 @@ theme:
           name: Switch to light mode
           primary: red
 
+extra_css:
+    - style.css
+
 markdown_extensions:
     - abbr
     - admonition
