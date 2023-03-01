@@ -4,7 +4,7 @@ The family member name and their phone number will be included in the Volunteer 
 
 Telephone Interview Process
 
-1.	Initiate the phone interview using the interview script (see appendix on page 8)
+1.	Initiate the phone interview using the interview script
 
 2.	Provide a formal introduction to family
 
@@ -16,11 +16,9 @@ Telephone Interview Process
 
 6.	At the end of the interview, thank the family member for participating
 
-If the family member does not have time for the interview
+If the family member does not have time for the interview, offer the family member the Music & Memory email address, which they can use to share the patient’s music preferences (email: burnabymusic@fraserhealth.ca).
 
-Offer the family member the Music & Memory email address, which they can use to share the patient’s music preferences (email: Burnabymusic@fraserhealth.ca).
-
-Further Considerations
+### Further Considerations
 
 Family members may choose to spend the phone interview sharing personal stories or comments about their healthcare journey. These interviews can serve to be a helpful source of social engagement for families. Volunteers may need to be flexible and support such conversations beyond the task of gathering the patient’s music preferences. If a patient or family member requests specific medical information or support, acknowledge the importance of these concerns and clarify that as a volunteer, you are not a part of the clinical team.
 
@@ -60,16 +58,16 @@ Thank you so much for your time!
 ## Conduct Interview of Patient In-Person
 On Arrival to the Unit
 
-- Conduct hand hygiene prior to entering the unit
-- Notify the Nursing staff of the patient scheduled for a music interview
-- Ask if the patient is currently appropriate for the interview
-- If the patient is currently inappropriate for the interview continue to the next patient or supportive Music & Memory duties (see page 7)
-- If appropriate, assess for any new isolation precautions. Do attend a patient bedside where infection precautions are posted
-- Visually assess the patient’s readiness. Look for signs of agitation
-- Provide a formal introduction and proceed with the interview if the patient is calm and cooperative
-- As you begin the interview, ensure that you are positioned outside of the patient’s reach with the ability to exit quickly as needed
-- Proceed with the interview (formal introduction, social ice-breaker that prompts their engagement, ask about the patient’s music preferences, call up songs on Spotify to confirm their preference)
-- Once completed, thank the patient for participating in the interview
+1. Conduct hand hygiene prior to entering the unit
+2. Notify the Nursing staff of the patient scheduled for a music interview
+3. Ask if the patient is currently appropriate for the interview
+4. If the patient is currently inappropriate for the interview continue to the next patient or supportive Music & Memory duties
+5. If appropriate, assess for any new isolation precautions. Do attend a patient bedside where infection precautions are posted
+6. Visually assess the patient’s readiness. Look for signs of agitation
+7. Provide a formal introduction and proceed with the interview if the patient is calm and cooperative
+8. As you begin the interview, ensure that you are positioned outside of the patient’s reach with the ability to exit quickly as needed
+9. Proceed with the interview (formal introduction, social ice-breaker that prompts their engagement, ask about the patient’s music preferences, call up songs on Spotify to confirm their preference)
+10. Once completed, thank the patient for participating in the interview
 
 Further Considerations
 
