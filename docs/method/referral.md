@@ -28,9 +28,10 @@
 - When conducting telephone interviews discard the referral paper in the Fraser Health SHRED-IT box immediately after the call
 
 <figure markdown>
-    ![Shred It](/docs/img/shredit.jpg){ width="180" }
+    ![Shred It](../img/shredit.jpg){ width="180" }
     <figcaption>Figure 3: SHRED-IT Box</figcaption>
 </figure>
+![Overview of appointment process](../img/shredit.jpg){ loading=lazy }
 
 <figure markdown>
   ![Image title](https://dummyimage.com/600x400/){ width="300" }
