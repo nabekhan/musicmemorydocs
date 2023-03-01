@@ -1,5 +1,5 @@
-# Interview Patient or Family
-## Conduct the Music & Memory Interview by Phone or Email
+# Interview
+## Conduct Interview of Family by Phone or Email
 The family member name and their phone number will be included in the Volunteer Resources Music & Memory referral sheet. Using the Fraser Health phone in the Volunteer Administration office follow the next six steps:
 
 Telephone Interview Process
@@ -57,7 +57,7 @@ Thank you so much for your time!
 ```
 
 
-## Conduct the Music & Memory Interview In-Person
+## Conduct Interview of Patient In-Person
 On Arrival to the Unit
 
 - Conduct hand hygiene prior to entering the unit
@@ -91,3 +91,6 @@ Further Considerations
 - Did (patient) like to dance? If so, what type of dance? (salsa, ballroom, swing, disco, square dance, polka, line)
 - Did (patient) have a favourite classical music composer?
 - Do you know what songs were played at (patient)’s wedding or high school prom?
+
+## Next Step
+[Create the playlist on Spotify with the patient.](playlist.md)

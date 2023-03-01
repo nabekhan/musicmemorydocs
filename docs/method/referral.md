@@ -31,3 +31,6 @@
     ![Shred It](shredit.jpg){ width="180" }
     <figcaption>Figure 3: SHRED-IT Box</figcaption>
 </figure>
+
+## Next Step
+[Interview the patient or close family to identify 5-8 meaningful songs.](interview.md)
