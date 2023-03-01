@@ -81,7 +81,7 @@ Further Considerations
 - Does (patient) have a favorite type/genre of music? (rock, pop, jazz, folk, R&B, country, classical, disco)
 - Does (patient) have any records, tapes, or CDs that were favorites?
 - Does (patient) hum to any of their favourite songs?
-- What type of music did	listen to when they were young?
+- What type of music did (patient) listen to when they were young?
 - What was (patient)’s favourite performer, group, band, orchestra?
 - Did (patient) sing at religious services? If so, what denomination and what part of the country? (i.e. Roman Catholic, Lutheran, Methodist, Baptist, Jewish)
 - Did (patient) have favourite hymns or other religious music?
