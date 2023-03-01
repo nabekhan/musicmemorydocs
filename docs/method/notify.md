@@ -1,6 +1,6 @@
 # Unit Notification Plan
 ## Template
-- After completing the interview and Spotify playlist, notify the unit clerk either by phone call (604-412-6402) – or in person – and submit an email to (burnabymusic@fraserhealth.ca).
+After completing the interview and Spotify playlist, notify the unit clerk either by phone call (604-412-6402) – or in person – and submit an email to (burnabymusic@fraserhealth.ca).
 
 ```
 Email subject: Notification of new music & memory playlist
