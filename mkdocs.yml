@@ -73,6 +73,7 @@ nav:
   - 'Step 2: Interview': 'method/interview.md'
   - 'Step 3: Playlist': 'method/playlist.md'
   - 'Step 4: Notify': 'method/notify.md'
+  - 'Summary': '/method/summary.md'
 - Support:
   - 'Trial Playlist': 'support/trial.md'
   - 'Equipment Review': 'support/equipment.md'
