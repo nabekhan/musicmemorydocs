@@ -24,7 +24,7 @@ Further Considerations
 
 Family members may choose to spend the phone interview sharing personal stories or comments about their healthcare journey. These interviews can serve to be a helpful source of social engagement for families. Volunteers may need to be flexible and support such conversations beyond the task of gathering the patient’s music preferences. If a patient or family member requests specific medical information or support, acknowledge the importance of these concerns and clarify that as a volunteer, you are not a part of the clinical team.
 
-# Call Script
+## Call Script
 ```
 Hello, my name is (name) and I am a volunteer at the Burnaby Hospital, calling on behalf of unit 2C for (patient name). Is this (family member name)?
 
@@ -32,21 +32,18 @@ This call is not an urgent call about (family member name)’s medical concerns,
 
 Would you be interested in going over some questions that will help us put together a playlist for (patient name)? Or do know any specific music, genre of music, or artists (patient name) enjoys listening to? (Aim for 15 songs minimum and 20 max)
 
-(If family is having trouble identifying specific songs, offer them the email option)
-
-(proceed to go over questions below if needed)
+(If family is having trouble identifying specific songs, [prompt replies using the questions below](interview.md#helpful-interview-questions) and offer them the email option)
 
 Thank you so much for your time! Is there anything else you would like us to note?
 ```
 
 If the call goes to the family members voicemail:
 ```
-“Hello, this is (your name) calling from the Volunteers Office at Burnaby Hospital. My call today is in response to a request to create a music playlist for your family member on Unit 2C (do
-not mention the patient’s name). Another volunteer will call back at a future date.”
+“Hello, this is (your name) calling from the Volunteers Office at Burnaby Hospital. My call today is in response to a request to create a music playlist for your family member on Unit 2C (do not mention the patient’s name). Another volunteer will call back at a future date.”
 ```
 After providing this voicemail message, return the paper referral to the Music & Memory folder and leave a note to subsequent volunteer regarding the date and time you left the voicemail.
 
-# Email Template
+## Email Template
 If the family is unable to take a call, you can use the following email template to request music suggestions:
 
 ```
@@ -60,7 +57,7 @@ Thank you so much for your time!
 ```
 
 
-## Volunteer Conducts the Music & Memory Interview In-person
+## Conduct the Music & Memory Interview In-Person
 On Arrival to the Unit
 
 - Conduct hand hygiene prior to entering the unit
