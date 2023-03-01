@@ -1,3 +1,4 @@
+# Interview Patient or Family
 ## Step 2 – Volunteer Conducts the Music & Memory Interview by Phone
 The family member name and their phone number will be included in the Volunteer Resources Music & Memory referral sheet. Using the Fraser Health phone in the Volunteer Administration office follow the next six steps:
 
@@ -31,6 +32,21 @@ Offer the family member the Music & Memory email address, which they can use to 
 Further Considerations
 
 Family members may choose to spend the phone interview sharing personal stories or comments about their healthcare journey. These interviews can serve to be a helpful source of social engagement for families. Volunteers may need to be flexible and support such conversations beyond the task of gathering the patient’s music preferences. If a patient or family member requests specific medical information or support, acknowledge the importance of these concerns and clarify that as a volunteer, you are not a part of the clinical team.
+
+### Call Script
+
+Hello, my name is (name) and I am a volunteer at the Burnaby Hospital, calling on behalf of unit 2C for (patient name). Is this (family member name)?
+
+This call is not an urgent call about (family member name)’s medical concerns, but I wanted to ask about their music preferences because we are currently running a music therapy program that we believe will improve (patient name)’s hospital experience. We were hoping to put together a personalized playlist that will help evoke positive emotions and memories and to promote overall wellbeing.
+
+Would you be interested in going over some questions that will help us put together a playlist for (patient name)? Or do know any specific music, genre of music, or artists (patient name) enjoys listening to? (Aim for 15 songs minimum and 20 max)
+
+(If family is having trouble identifying specific songs, offer them the email option)
+
+<proceed to go over questions in Appendix C>
+
+Thank you so much for your time! Is there anything else you would like us to note?
+
 
 
 ## Step 2b – Volunteer Conducts the Music & Memory Interview In-person
