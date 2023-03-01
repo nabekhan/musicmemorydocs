@@ -34,8 +34,8 @@ theme:
 markdown_extensions:
     - abbr
     - admonition
-    - attr_list
     - md_in_html
+    - attr_list
     - pymdownx.arithmatex:
           generic: true
     - pymdownx.highlight
