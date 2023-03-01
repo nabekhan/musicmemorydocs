@@ -19,7 +19,7 @@
 - Phone interviews will include the family members name and contact number
 
 <figure markdown="1">
-    ![Memory Folder](../img/referralform.jpg){ width="300" }
+    ![Referral Form](../img/referralform.jpg){ width="300" }
     <figcaption>Figure 2: Referral Form Sample</figcaption>
 </figure>
 
@@ -28,6 +28,6 @@
 - When conducting telephone interviews discard the referral paper in the Fraser Health SHRED-IT box immediately after the call
 
 <figure markdown="1">
-    ![MemoryFolder](../img/shredit.jpg){ width="180" }
+    ![Shred It](../img/shredit.jpg){ width="180" }
     <figcaption>Figure 3: SHRED-IT Box</figcaption>
 </figure>
