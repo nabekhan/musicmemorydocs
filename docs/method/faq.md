@@ -1,3 +1,3 @@
 # Frequently Asked Questions
-## Why can't I pair an iPhone to another headset?
-Headsets can only be paired to one phone at once. Ensure the headset is on, and Bluetooth is off on all other phones before attempting to connect.
+## Why can't I pair an iPhone to a headset?
+Headsets can only be connected to one phone at once. Ensure the headset is on, and Bluetooth is off on other phones before attempting to pair.
